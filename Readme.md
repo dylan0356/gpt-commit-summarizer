@@ -1,6 +1,6 @@
 # gpt-commit-summarizer
 
-See [announcement blogpost](https://medium.com/@knaan.harpaz/leverage-openais-language-model-for-automated-commit-summaries-8181cef30375?source=friends_link&sk=b71a6799548f52274d2d0888e9bfd97e).
+**This is a updated maintained fork**
 
 Don't have time and want to get hacking right away? Check out the [Getting Started](#getting-started) section.
 
